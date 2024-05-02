@@ -1,0 +1,6 @@
+.btn{
+    color: white;
+}
+.btn:hover{
+    background-color: bisque;
+}
